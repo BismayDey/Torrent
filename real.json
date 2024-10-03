@@ -1,0 +1,25 @@
+{
+  "torrents": {
+    "movie-a": {
+      "name": "Movie A",
+      "seeders": 1200,
+      "leechers": 300,
+      "size": "1.4 GB",
+      "category": "movies"
+    },
+    "game-b": {
+      "name": "Game B",
+      "seeders": 800,
+      "leechers": 150,
+      "size": "6.8 GB",
+      "category": "games"
+    },
+    "app-c": {
+      "name": "App C",
+      "seeders": 500,
+      "leechers": 200,
+      "size": "2.1 GB",
+      "category": "apps"
+    }
+  }
+}
